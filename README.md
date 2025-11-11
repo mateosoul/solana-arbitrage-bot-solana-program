@@ -4,10 +4,15 @@ A high-performance, real-time arbitrage bot for Solana that identifies and execu
 
 <div align="center">
 
-### Call Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/roswellecho)
-[![Twitter](https://img.shields.io/badge/Twitter-14171A?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/roswellecho)
+### 💬 Get in Touch
+
+
+** Gmail ** : mateo.talentdev@gmail.com
+
+** Telegram ** : [@mateosoul](https://t.me/mateosoul)
+
+** Discord ** : [@mate0soul](https://discord.com/channels/@me/1436353452853821604)
 
 
 </div>
